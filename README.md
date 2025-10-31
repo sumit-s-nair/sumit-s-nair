@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'm <span style="color:#007acc;">Sumit Santhosh Nair</span></h1>
-<h3 align="center">🚀 Full Stack Developer | 🎥 Creative Storyteller | 🌱 Tech Explorer</h3>
+<h3 align="center">Full Stack Developer | Videographer | Tech Explorer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sumit-santhosh-nair-3ba522283/" target="_blank">
@@ -20,8 +20,7 @@
 
 - I'm a Computer Science student at PES University (batch of 2027)
 - Currently working on [**Trailo**](https://trailo-web.vercel.app/), a ride planning and tracking app designed to help friends coordinate bike trips seamlessly.  
-- Web Developer @ GronIT & Nexus | Videographer @ Pixels  
-- Passionate about building apps and telling stories through code and video  
+- Web Developer @ GronIT & Nexus | Videographer @ Pixels 
 
 ---
 
@@ -39,8 +38,3 @@ AI/ML
 Tools & DevOps
 <table><tr> <td><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/></td> <td><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/></td> <td><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></td> <td><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/></td> <td><img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/></td> <td><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></td> <td><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></td> <td><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></td> <td><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></td> </tr></table>
 
-## Some of my Featured Projects (I'll be honest I dont always update this stuff)
-
-- <b>Spot</b>: Team formation platform with real-time chat, admin forms, and event lobbies. [Live](https://spot-us.vercel.app)
-- <b>GronIT Website</b>: Dynamic club website with blogs and event management. [Live](https://gronit-pes.vercel.app)
-- <b>Portfolio</b>: Personal site showcasing projects and experience. [Live](https://sumit-s-nair.vercel.app/)
