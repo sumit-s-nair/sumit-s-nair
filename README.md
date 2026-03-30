@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm <span style="color:#007acc;">Sumit Santhosh Nair</span></h1>
+<h1 align="center">Hi, I'm <span style="color:#007acc;">Gandu</span></h1>
 <h3 align="center">Full Stack Developer · Engineering Student · Tech Explorer</h3>
 
 <p align="center">
